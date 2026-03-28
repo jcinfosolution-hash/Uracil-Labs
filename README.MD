@@ -175,7 +175,7 @@ auth_status
 auth_proposals
 clean_proposals
 
-10. Protein_Folding
+9. Protein_Folding
 bash
 
 # Protein Folding (ZK Proof)
@@ -184,7 +184,7 @@ mine
 balance alice work
 
 
-9. Silent Guardian & Serial Tracking
+10. Silent Guardian & Serial Tracking
 bash
 
 # Check silent guardian status
