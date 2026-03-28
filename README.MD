@@ -22,6 +22,9 @@ This version demonstrates a fully working node with all core systems operational
 2. Open Command Prompt in the download folder
 3. Run:
 
+```bash
+uracil-chain.exe 9001
+
 > **Note**: Linux and Mac builds will be added soon.
 
 2. Basic Operations
