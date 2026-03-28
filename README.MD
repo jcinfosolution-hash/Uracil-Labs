@@ -1,3 +1,11 @@
+## Download & Run (Windows)
+
+1. Download `uracil-chain.exe` from [Releases](https://github.com/jcinfosolution-hash/Uracil-Labs/releases)
+2. Open Command Prompt in the download folder
+3. Run:
+
+> **Note**: Linux and Mac builds will be added soon.
+
 Uracil Chain v1
 A production-grade quantum-resistant blockchain protocol with dual-chain architecture, serial-based asset tracking, and adversarial consensus validation.
 
