@@ -1,4 +1,4 @@
-Uracil Chain v1 (Grant Version)
+Uracil Chain v1
 A production-grade quantum-resistant blockchain protocol with dual-chain architecture, serial-based asset tracking, and adversarial consensus validation.
 
 What This Is
@@ -14,7 +14,7 @@ Quantum resistance using Falcon signatures
 
 Dual-factor security with independent Guardian Keys
 
-This grant version demonstrates a fully working node with all core systems operational and adversarial testing completed across consensus, network, and security layers.
+This version demonstrates a fully working node with all core systems operational and adversarial testing completed across consensus, network, and security layers.
 
 Quick Start (5 Minutes)
 1. Run a Single Node
