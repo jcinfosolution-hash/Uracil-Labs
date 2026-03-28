@@ -4,7 +4,7 @@ Uracil Chain is a production-grade dual-chain blockchain with instant transactio
 
 ---
 
-![Uracil Chain Architecture](screenshots/Full%20Architecture.png)
+![Uracil Chain Architecture](Screenshots/Full%20Architecture.png)
 
 ## 🚀 Download & Run (Windows)
 
