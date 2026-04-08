@@ -397,14 +397,14 @@ cargo test --test performance_benchmark -- --nocapture
 - **PoAuth** - Institutional multi-sig quorum with Falcon signatures
 - **Guardian Keys (v2)** - Dual-factor security with independent seed, never stored on chain
 
----
+----
 
 ## 📋 Requirements
 
 - Rust 1.70+
 - 2+ CPU cores for parallel verification
 
----
+----
 
 ## 📄 License
 
